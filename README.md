@@ -10,8 +10,7 @@
   <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-youremail%40example.com-informational?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/your-link/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-your--link-blue?logo=linkedin"></a>
   <a href="https://github.com/YOUR_USERNAME?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+ 
 
 ---
 
