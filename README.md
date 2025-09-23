@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-sanuk.hansana014gmail.com-informational?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/sanuk-hansana/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-visit-profile-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/sanuk-hansana/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-your--link-blue?logo=linkedin"></a>
   <a href="https://github.com/SanukHansana?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/SanukHansana?style=social"></a>
  
 
