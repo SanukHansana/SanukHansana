@@ -19,7 +19,6 @@
 - 🔭 Building: **Urban Council Management System** (Inventory module), **Online Property Sale System** (Teramarket/NewDoor), **ComicBurst** (Android/Kotlin)  
 - 🧰 I enjoy clean architecture, solid database design (triggers/SPs), and practical UI/UX  
 - 🧪 Learning: CI/CD, testing, and production-ready security basics  
-- 🎮 Free time: GTA Online, Sea of Thieves, tinkering with Android & networks
 
 ---
 
